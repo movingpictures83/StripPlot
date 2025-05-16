@@ -1,0 +1,2 @@
+Prefix plugins/StripPlot/example/
+Plugin StripPlot inputfile GBM.rds outputfile output.png
